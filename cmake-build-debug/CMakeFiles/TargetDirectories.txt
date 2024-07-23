@@ -1,0 +1,3 @@
+D:/MemKek/MemOrKek/cmake-build-debug/CMakeFiles/MemOrKek.dir
+D:/MemKek/MemOrKek/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MemKek/MemOrKek/cmake-build-debug/CMakeFiles/rebuild_cache.dir

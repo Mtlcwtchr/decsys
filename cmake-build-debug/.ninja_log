@@ -1,0 +1,11 @@
+# ninja log v6
+27	98	7433830356667476	CMakeFiles/MemOrKek.dir/DecisionsSystem/Stats/Characteristic.cpp.obj	32b5069f7965e512
+6	242	7434482439254093	build.ninja	4fd2e0fdf65c4a1f
+16	341	7433831789658729	CMakeFiles/MemOrKek.dir/main.cpp.obj	9f949034a033b076
+29	93	7433801037321454	CMakeFiles/MemOrKek.dir/DecisionsSystem/Needs/Description/NeedDescription.cpp.obj	4d40c193adfe9639
+23	91	7433830356627479	CMakeFiles/MemOrKek.dir/DecisionsSystem/Feats/Feat.cpp.obj	3eaf8a40596e8042
+10	315	7433830356491955	CMakeFiles/MemOrKek.dir/DecisionsSystem/Needs/Need.cpp.obj	7f6d2b18cc42b99f
+15	237	7433830356547172	CMakeFiles/MemOrKek.dir/DecisionsSystem/Opportunities/Opportunity.cpp.obj	60afa8c4e2741cd
+31	87	7433830356707486	CMakeFiles/MemOrKek.dir/Main/Main.cpp.obj	5909c2b539bb3c40
+20	259	7433831789688743	CMakeFiles/MemOrKek.dir/DecisionsSystem/Entity/Entity.cpp.obj	8e705741508c27ed
+341	441	7433831792907591	MemOrKek.exe	2f4b494da962ad73
